@@ -1,0 +1,2 @@
+# linux_personal_profile_database
+这个仓库的建立是为了让我将学习的Linux知识点通过自己的语言叙述出来，之后让我能够学明白Linux
